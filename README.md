@@ -1,7 +1,6 @@
 # AI Loan Eligibility Checker
 
-A web application for checking basic loan eligibility,
-calculating EMI, and providing financial tips.
+A web application for checking basic loan eligibility, calculating EMI, and providing financial tips.
 
 ## Features
 
@@ -23,12 +22,12 @@ calculating EMI, and providing financial tips.
 
 ## Disclaimer
 
-This project provides an educational/basic eligibility estimate.
-It is not a real loan approval system.
+This project provides an educational/basic eligibility estimate. It is not a real loan approval system.
+
 ## Demo
 
-Live Demo: Coming Soon
+Live Demo: https://fabulous-biscuit-f767cc.netlify.app/
 
 ## GitHub Repository
 
-https://github.com/pratikmane585-dev/AI-Loan-Eligibility-Checker
+https://github.com/omgidde23/AI-Loan-Eligibility-checker
